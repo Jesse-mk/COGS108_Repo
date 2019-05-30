@@ -1,5 +1,5 @@
-# COGS108_Repo
-Setting up Github for COGS 108
+# Class Repo
+Final Project for Data Science Class
 
 
 ### References:
