@@ -1,4 +1,4 @@
-# Class Repo
+# HPI Score Map
 Final Project for Data Science Class
 
 
